@@ -1,0 +1,7 @@
+/* App のスタイル定義 */
+.app {
+  font-family: 'Roboto', sans-serif;
+  background: #000;
+  color: #fff;
+  overflow-x: hidden;
+}
