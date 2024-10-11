@@ -41,15 +41,6 @@ const ContactForm = () => {
                 <i className="fab fa-twitter fa-2x"></i>
                 <span className="text-xl font-bold">X(Twitter)</span>
               </a>
-              <a
-                href="https://www.instagram.com/_.28__s/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:text-blue-800 transition duration-300 flex items-center space-x-2"
-              >
-                <i className="fab fa-twitter fa-2x"></i>
-                <span className="text-xl font-bold">Instagram</span>
-              </a>
             </div>
           </div>
         </div>
